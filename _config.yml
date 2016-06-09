@@ -1,0 +1,27 @@
+title: Lazy IT-specialist
+description: 
+
+url: http://brianmaierjr.github.com/long-haul
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Главная
+   url: /index.html
+ - title: О сайте
+   url: /about
+ - title: Контакты
+   url: /contact
+
+social:
+   github: kozhevnikovm
+   facebook: kozhevnikovma
+   email: 
+
+google_analytics: ""
