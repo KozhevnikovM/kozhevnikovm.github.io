@@ -1,0 +1,7 @@
+---
+layout: post
+title: Настройка связки Unicorn + Nginx и автозапуск приложений
+---
+### Установка Unicorn
+Для установки Unicorn достаточно добавить в Gemfile строку:
+'gem 'unicorn''
